@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405993914724",
+    "project_id": "autenticacion-1e3c7",
+    "storage_bucket": "autenticacion-1e3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405993914724:android:065ea68e67757eff4e3a71",
+        "android_client_info": {
+          "package_name": "andre.molina.firebaseandremolina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTNjml91e2AOlEaBnZvBLqFVj8-e0nxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

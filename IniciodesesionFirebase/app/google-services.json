@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625173845339",
+    "project_id": "fir-project-ee812",
+    "storage_bucket": "fir-project-ee812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625173845339:android:6ff17987435f1964ad367e",
+        "android_client_info": {
+          "package_name": "Fernando.dejesus.iniciodesesionfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABbbMpp5bNj2fXvpmZMv_zhg0U4-hbuo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

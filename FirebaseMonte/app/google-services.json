@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566785244768",
+    "project_id": "mi-primer-app-firebase-1b276",
+    "storage_bucket": "mi-primer-app-firebase-1b276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566785244768:android:54ca3771996124e0794d05",
+        "android_client_info": {
+          "package_name": "rodrigo.monterrosa.appfirebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu4NMCFNZ6Ad1q3im62nkcQgCIQSwZN7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
